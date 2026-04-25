@@ -1,2 +1,2 @@
 # r-equals-four
-HTML file visualing the logistics map 
+HTML file visualizing the logistics map 
